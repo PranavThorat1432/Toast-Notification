@@ -52,6 +52,11 @@ This project implements a simple **Toast Notification (Snackbar)** using **HTML,
 
 ## 🖼️ Screenshot
 
+![toast1](https://github.com/user-attachments/assets/b3b6ff32-41d8-4bb1-96c0-38c11a4cfcb8)
+
+![toast2](https://github.com/user-attachments/assets/64fe1314-e2f5-4530-b76e-6edf1059167e)
+
+![toast3](https://github.com/user-attachments/assets/5632fbf8-6482-4d2d-9e3a-16c1a81398e4)
 
 
 ---
